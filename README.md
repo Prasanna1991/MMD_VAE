@@ -4,7 +4,7 @@ This repo contains the code for our AAAI-Workshop paper "Learning disentangled r
 
 As the experiments involved private dataset, the data loader are defined to take random number with same dimensions as input data.
 
-## Dependencies:
+## Dependencies
 
 * PyTorch
 * Numpy
