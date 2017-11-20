@@ -11,7 +11,7 @@ As the experiments involved private dataset, the data loader are defined to take
 
 ## Description
 
-**train_<modelName>.py** contains the training procedure of the model.
+**train_{modelName}.py** contains the training procedure of the model.
   
 **models.py** contains the models used in the experiments.
 
