@@ -1,6 +1,7 @@
 # MMD_VAE
 
-This repo contains the code for our AAAI-Workshop paper "Learning disentangled representations from 12-lead electrograms: application in localizing the origin of Ventricular Tachycardia"
+This repo contains the code for the paper presented at Health-Intelligence Workshop, AAAI 2018 "Learning disentangled representations from 12-lead electrograms: application in localizing the origin of Ventricular Tachycardia" [[Link](https://arxiv.org/abs/1808.01524)]
+
 
 As the experiments involved private dataset, the data loader are defined to take random number with same dimensions as input data.
 
